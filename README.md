@@ -8,9 +8,9 @@
 
 ## Tehnologii: Asp.Net
 
-## Aplicatia se compileaza accesand serverul de pe telefon sau din Visual Studio.
+## Aplicatia se compileaza accesand serverul localhost de pe telefon sau din Visual Studio.
 
-## Am folosit bucati de cod din sursele prezentate in crearea anumitor parti din controller . Sursa: https://www.c-sharpcorner.com/article/how-to-write-simple-todo-crud-asp-net-mvc-application2/ ; Pill Bug Interactive;
+## Am folosit bucati de cod din sursele prezentate in crearea anumitor parti din controller . Sursa: https://www.c-sharpcorner.com/article/how-to-write-simple-todo-crud-asp-net-mvc-application2/ ;
 
 
 
